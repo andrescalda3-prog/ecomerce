@@ -1,0 +1,33 @@
+{
+  "product_url": "https://navetouy.com/products/mopa-spray-sin-balde-limpieza-rapida-y-facil",
+  "title": "Mopa Spray Sin Balde – Limpieza Rápida y Fácil",
+  "reference_price_cents": 99000,
+  "reference_compare_at_cents": 149000,
+  "files": [
+    {
+      "file": "mopa-portada.png",
+      "url": "https://cdn.shopify.com/s/files/1/0693/1831/2155/files/ChatGPTImage24abr2026_20_22_29.png?v=1777072954",
+      "alt": null
+    },
+    {
+      "file": "mopa-uso.mp4",
+      "url": "https://cdn.shopify.com/videos/c/vp/1bc8f20164a145a58886ad1e8c9cf114/1bc8f20164a145a58886ad1e8c9cf114.HD-720p-1.6Mbps-96584710.mp4",
+      "alt": "Mopa spray limpiando el piso"
+    },
+    {
+      "file": "mopa-accion.mp4",
+      "url": "https://cdn.shopify.com/videos/c/vp/a03a88d1343f4a5c92d9ad278f934462/a03a88d1343f4a5c92d9ad278f934462.SD-480p-1.5Mbps-96584711.mp4",
+      "alt": "Mopa spray 360° en acción"
+    },
+    {
+      "file": "mopa-cabezal.mp4",
+      "url": "https://cdn.shopify.com/videos/c/vp/3fc4e77dc6054606bd7a436c2117d0f2/3fc4e77dc6054606bd7a436c2117d0f2.SD-480p-1.5Mbps-96584712.mp4",
+      "alt": "Cabezal 360° de la mopa girando"
+    },
+    {
+      "file": "mopa-deposito.png",
+      "url": "https://cdn.shopify.com/s/files/1/0693/1831/2155/files/583b4958-9ace-4024-8f6e-6ddeae7e6c0d_e631d536-846c-4cf2-bcd4-58c0ff275afe.png?v=1791300147",
+      "alt": "Depósito recargable de 600 ml de la mopa spray"
+    }
+  ]
+}

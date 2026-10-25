@@ -1,0 +1,62 @@
+CASA FÁCIL — MOPA BEIGE (VERSIÓN 3)
+
+INSTALAR
+Subí casa-facil-mopa-beige.zip en Shopify > Tienda online > Temas >
+Agregar tema > Subir ZIP. Abrí la vista previa.
+El botón principal lleva a una ficha interactiva de muestra.
+El botón del combo lleva a esa ficha con el combo ya seleccionado.
+
+PRODUCTO CORREGIDO
+Se reemplazó la mopa genérica verde por la imagen de la mopa beige
+con mango metálico, publicada en la página que compartiste.
+La imagen principal coincide visualmente con la que enviaste por chat.
+Se pudo acceder a la página y a su JSON público en esta revisión.
+
+REFERENCIA
+https://navetouy.com/products/mopa-spray-sin-balde-limpieza-rapida-y-facil
+La ficha publica precio $990 y comparación $1.490. Esos valores se usan
+como referencia visual en la demostración; no configuran precios en tu tienda.
+La ficha describe depósito de 600 ml, cabezal giratorio y microfibra lavable.
+Se mantuvieron indicaciones prudentes sobre líquidos y compatibilidad de pisos.
+
+VIDEOS INCLUIDOS
+- mopa-spray-en-accion.mp4: 6 s, mopa beige en uso sobre un piso.
+- mopa-cabezal-detalle.mp4: 5,13 s, detalle de cabezal articulado blanco.
+Ambos se descargaron de los medios publicados en la ficha de referencia.
+Se incluyeron sin recortes, cambios, eliminación de marcas ni audio añadido.
+La diferencia de acabado del segundo video queda indicada junto al video.
+Se guardan dentro del ZIP: su reproducción no depende de la tienda de origen.
+No se usó el anuncio vertical que contiene promesas de pago al recibir.
+No se usó la imagen de “antes y después” de la página.
+Los archivos y URLs de origen están documentados en MOPA-BEIGE-FUENTES.json.
+
+OFERTA DE ACCESORIO PROPUESTA
+Mopa: $990 (referencia $1.490).
+Combo: mopa + 2 paños MULTIUSO de microfibra: $1.190.
+Los dos paños suman $200; precio normal propuesto del accesorio: $250.
+Ahorro en el accesorio: $50. Comparación propuesta del combo: $1.740.
+Son paños para superficies del hogar, NO repuestos que deban encajar en
+el cabezal. No se verificó proveedor, precio de compra ni stock del accesorio.
+La imagen del combo es un montaje generado a partir de la foto de la mopa;
+los paños son ilustrativos. La tienda debe confirmar la oferta antes de vender.
+
+VENDER DE VERDAD
+El ZIP no crea productos, kits, stock, descuentos automáticos ni pagos.
+1. Cargá el producto real en Shopify y las variantes que efectivamente vendas.
+2. Configurá los precios, precios de comparación, componentes e inventario reales.
+3. En el editor del tema, Portada Casa Fácil > Producto real de Shopify,
+   elegí el producto. El botón principal abrirá su ficha nativa.
+4. Abrí la portada alternativa “mopa” en el editor y seleccioná el mismo
+   producto en Mopa destacada. El menú “La mopa” abrirá la ficha real.
+5. La ficha usa fotos, variantes, descripción, disponibilidad y precios de Shopify,
+   y envía el formulario al carrito nativo. El combo debe ser una variante real.
+6. Confirmá permiso de uso comercial del material de terceros para tu tienda,
+   políticas, contacto, métodos de pago, envío y un pedido de prueba.
+7. El contenido promocional de la portada sigue presentando una propuesta de
+   combo: ajustalo o retiralo si no vas a ofrecer esos accesorios.
+
+PRUEBAS
+Se valida en Chromium la navegación, la selección del combo, precios y cantidades,
+la bolsa de muestra y su persistencia, las imágenes, ambos videos y el diseño
+móvil. También se prueba con datos simulados la integración nativa de variantes.
+La prueba local no demuestra carga, checkout o pago en una tienda Shopify real.
