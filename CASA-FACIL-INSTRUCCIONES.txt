@@ -1,0 +1,68 @@
+CASA FÁCIL — TEMA SHOPIFY PARA MOPA SPRAY
+
+ARCHIVO PARA SUBIR
+casa-facil-mopa-theme.zip
+En Shopify: Tienda online > Temas > Agregar tema > Subir ZIP.
+Abrí la vista previa y hacé clic en “Quiero ver la mopa”.
+La ficha de muestra funciona sin crear productos: usa ?view=mopa.
+
+CONTENIDO
+Portada, ficha de producto, carrito nativo, colección, páginas, error 404,
+preguntas frecuentes, compra móvil con acceso fijo a opciones y kits de ejemplo.
+Marca de concepto: Casa Fácil. Textos en español rioplatense.
+Dos imágenes generadas y dos clips MP4 animados de 12 segundos con subtítulos.
+Los clips no tienen audio y no son filmaciones de limpieza ni videos generativos
+de una persona usando el producto: son presentaciones animadas de imágenes.
+
+FOTOS Y MODELO
+El producto solicitado fue:
+https://navetouy.com/products/mopa-spray-sin-balde-limpieza-rapida-y-facil
+El acceso a ese dominio quedó bloqueado por la política de red del entorno.
+No se pudieron verificar su precio, color, capacidad, dimensiones, materiales,
+contenido exacto ni fotos originales. Las imágenes son de una mopa genérica
+blanca y verde; están identificadas como ilustrativas y generadas.
+El kit con 2 o 4 paños de repuesto es una propuesta comercial, no una
+confirmación de disponibilidad ni de compatibilidad con el modelo del enlace.
+Las imágenes generadas no deben usarse para prometer un producto diferente.
+
+USAR EL PRODUCTO REAL
+Un tema ZIP no puede crear productos, stock, descuentos automáticos, pagos,
+políticas ni envíos en Shopify.
+1. Cargá o verificá el producto real y sus fotos en Productos.
+2. Si vendés kits, creá las variantes reales con sus componentes, stock y precios.
+3. Los precios de comparación deben corresponder a condiciones comerciales reales.
+4. En Personalizar tema > Portada Casa Fácil > Producto real de Shopify,
+   seleccioná ese producto. La portada dirigirá su botón a la ficha real.
+5. En el editor, abrí la portada alternativa “mopa” y seleccioná el mismo
+   producto en Mopa destacada. Así, el enlace del menú “La mopa” abre la ficha
+   de ese producto sin depender de cambiar código.
+6. La ficha real usa fotos, descripción, variantes, disponibilidad y precios
+   del producto seleccionado, y envía el formulario al carrito nativo de Shopify.
+7. Configurá contacto, políticas, pagos, costos/plazos de envío y probá un pedido
+   en modo de prueba antes de publicar.
+
+IMÁGENES Y CLIPS DE LA PORTADA
+La foto principal se reemplaza por la imagen real del producto seleccionado.
+Las tarjetas de kit y los clips siguen usando imágenes ilustrativas incluidas.
+Reemplazá esos archivos en assets o editá la sección si el modelo real difiere.
+No hay reseñas inventadas, contadores de stock, garantías, entregas prometidas
+ni resultados sanitarios atribuidos al producto.
+
+DEMOSTRACIÓN
+Sin producto seleccionado se muestran kits y precios ilustrativos en UYU:
+Mopa: $1.190 / comparación $1.490.
+Kit con 2 repuestos: $1.490 / comparación $1.890.
+Kit con 4 repuestos: $1.790 / comparación $2.290.
+El carrito de demostración funciona únicamente en la ficha demo, guarda
+la última selección en el navegador y no genera pedidos ni cobra.
+En la ficha de producto real se usa el carrito normal de Shopify.
+
+RED
+Se guardaron como propuesta los dominios navetouy.com, www.navetouy.com,
+cdn.shopify.com y videos.shopify.com, preservando los presets existentes.
+La propuesta requiere revisión, guardado y publicación en los ajustes del
+entorno. Guardar la propuesta por sí solo no habilitó el acceso de red actual.
+
+VALIDACIÓN
+Ver el informe CASA-FACIL-VALIDACION.txt. Las pruebas locales no sustituyen
+la validación de carga y checkout en una tienda Shopify.

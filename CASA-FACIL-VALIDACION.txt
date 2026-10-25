@@ -1,0 +1,26 @@
+CASA FÁCIL — VALIDACIÓN LOCAL
+
+APROBADO
+- Sintaxis JavaScript con node --check.
+- JSON de configuración/plantillas y JSON de esquemas de todas las secciones.
+- Existencia de todos los assets referenciados mediante asset_url.
+- Renderizado LiquidJS de portada, ficha demo y ficha con producto de prueba.
+- Chromium a 1440, 390 y 320 px: navegación desde portada a ficha,
+  cambio de kit, precio, cantidad, galería, bolsa demo, persistencia,
+  quitar, cierre con Escape y acceso fijo de compra en móvil.
+- Reproducción y decodificación de ambos MP4. Duración 12 segundos cada uno.
+- Imágenes cargadas y sin desbordes horizontales en portada y ficha.
+- Integración simulada de producto real: precio y comparación, ocultación
+  de descuento al elegir variante sin descuento, imagen de variante,
+  opción sin stock deshabilitada y POST de formulario con id=222 quantity=2.
+- Ajuste final de imágenes para que se vea la mopa completa, sin recortar
+  el mango ni el cabezal. Revisión final de selección y ancho en tres tamaños.
+
+NO VERIFICADO
+- Carga del ZIP en una tienda Shopify real y comportamiento de su editor.
+- Pago o checkout real; no hay sesión de administrador de Shopify conectada.
+- Producto exacto del enlace navetouy.com: dominio bloqueado por el entorno.
+- Disponibilidad/compatibilidad reales de paños y composición de kits.
+
+Las pruebas con LiquidJS y los datos simulados no sustituyen el motor Liquid,
+la disponibilidad de inventario ni el checkout del servidor Shopify.
